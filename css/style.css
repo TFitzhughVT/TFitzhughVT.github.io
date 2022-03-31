@@ -9,7 +9,7 @@ body {
 }
 
 header, footer {
-  background-color: #ffa500;
+  background-color: #85DCBA;
   text-align: left;
 /*  min-width: 500px; */
 }
@@ -39,6 +39,7 @@ h1 {
   padding-bottom: .67em;
   border-bottom: 1px solid;
   line-height: 1.3;
+  color: #41B3A3;
 }
 
 h2 {
@@ -47,7 +48,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #41B3A3;
   padding: 10px 0px 10px 10px;
 }
 
