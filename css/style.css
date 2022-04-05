@@ -89,7 +89,9 @@ img, iframe {
 }
 
 .myButton:hover {
-    background-color:#41B3A3;;
+    background-color:#41B3A3;
+    filter: drop-shadow(2px 2px 2px #41B3A3);
+
 }
 
 .myButton:active {
