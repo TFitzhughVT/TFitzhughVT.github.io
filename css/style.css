@@ -15,7 +15,7 @@ header, footer {
 }
 
 header {
-  font-family: Work Sans;
+  font-family: 'Nunito';
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -34,16 +34,33 @@ main {
 }
 
 h1 {
-  font-family: Poppins;
-  font-size: calc(1em + 3vw);
+  font-family: 'Oregano';
+  font-size: calc(1em + 3.5vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
   line-height: 1.3;
   color: #FBEEC1;
+  letter-spacing: 3px;
+}
+
+.title {
+  font-family: 'Oregano';
+  font-size: calc(1em + 4.25vw);
+  font-weight: 400;
+  padding-bottom: 0em;
+  line-height: 0;
+  color: #FBEEC1;
+  letter-spacing: 3px;
+}
+
+hr.one {
+  height: 1px;
+  background-color: #FBEEC1;
+  border: none;
 }
 
 h2 {
-  font-family: Poppins;
+  font-family: 'Nunito';
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -68,7 +85,9 @@ img, iframe {
 .bio {
   color: #E1D6AD;
   font-size: 24px;
-  font-family: 'Work Sans';
+  font-family: 'Nunito';
+  letter-spacing: 1px;
+  padding-top: 5px;
 }
 
 .buttonBox {
@@ -105,8 +124,8 @@ img, iframe {
   width: 100%;
 }
 
-.a {
-
+a {
+  color: #116466;
 }
 
 .c {
@@ -122,8 +141,8 @@ img, iframe {
 
 .mins {
   display: inline-block;
-  font-family: Poppins;
-  font-size: 14px;
+  font-family: 'Nunito';
+  font-size: 15px;
   font-weight: 500;
   letter-spacing: 0.3px;
   text-align: left;
@@ -133,8 +152,8 @@ img, iframe {
 }
 
 .description {
-  font-family: Work Sans;
-  font-size: 14px;
+  font-family: 'Nunito';
+  font-size: 15px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
