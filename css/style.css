@@ -222,6 +222,7 @@ footer div {
   }
   img, iframe {
     height: 40vh;
+    width: 100%;
   }
 }
 
@@ -235,5 +236,6 @@ footer div {
   }
   img, iframe {
     height: 25vh;
+    width: 100%;
   }
 }
