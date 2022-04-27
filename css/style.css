@@ -70,7 +70,7 @@ h2 {
   padding: 10px 0px 10px 10px;
 }
 
-img {
+img, iframe {
   width: 100%;
   height: 50vh;
   object-fit: cover;
@@ -220,7 +220,7 @@ footer div {
   main {
     grid-template-columns: 1fr;
   }
-  img {
+  img, iframe {
     height: 40vh;
   }
 }
@@ -233,7 +233,7 @@ footer div {
   .description {
     font-size: 18px;
   }
-  img {
+  img, iframe {
     height: 25vh;
   }
 }
