@@ -120,18 +120,15 @@ img, iframe {
     top:1px;
 }
 
-.recipe {
+.project {
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.5);
   width: 100%;
+  margin: 0px 0px 15px 0px;
 }
 
 a {
   color: #116466;
   text-decoration: none;
-}
-
-.c {
-
 }
 
 .time {
@@ -162,14 +159,6 @@ a {
   text-align: left;
   color: #4a4a4a;
   padding: 10px 5px 10px 10px;
-  border-top: 1px solid #4a4a4a;
-}
-
-.logo {
-  width: 115px;
-  height: 21.1px;
-  object-fit: contain;
-  padding: 20px;
 }
 
 .container {
@@ -196,7 +185,7 @@ a {
 footer div {
   height: 100%;
   font-family: 'Lato', sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   display: flex;
   align-content: center;
   justify-content: space between;
@@ -204,8 +193,7 @@ footer div {
   color: #FBEEC199;
 }
 
-.fa {
-  font-family: 'Lato', sans-serif;
+footer div .fa {
   font-size: 24px;
   display: flex;
   align-content: center;
